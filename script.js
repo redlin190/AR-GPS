@@ -15,8 +15,8 @@ function staticLoadPlaces() {
                 // decomment the following and add coordinates:
                 // lat: 25.025627819275186,
                 // lng: 121.4564460293249,
-                lat: 25.02562,
-                lng: 121.45644,
+                lat: 24.13731,
+                lng: 120.65110,
             },
         },  
     ];
@@ -37,7 +37,7 @@ var models = [
     },
     {
         url: './assets/dragonite/scene.gltf',
-        scale: '0.04 0.04 0.04',
+        scale: '0.04 0.04 0.0',
         rotation: '0 180 0',
         info: 'Dragonite, Lv. 99, HP 150/150',
     },
